@@ -1,12 +1,12 @@
 ## Hive Techware
 
 ```
-Hive Techware project build with a frontend built in React & Redux and a backend built in Django API.
+Hive Techware project frontend is built in React & Redux .
 ```
 
 ## Live Demo
 
-**This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
+**This App uses a free plan, so I am afraid that it takes time to load the pages.**
 
 Check out [FRONTEND LIVE DEMO]() here!!
 
